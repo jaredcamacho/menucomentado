@@ -1,0 +1,32 @@
+header{
+    background: rgba(250, 90, 255, 0.3);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    }
+    
+    nav{
+    float: left;
+    }
+    
+    nav ul{
+    list-style: none;
+    overflow: hidden;
+    }
+    
+    nav ul li{
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    }
+    
+    nav ul li a{
+    display: block;
+    padding: 16px;
+    color: #8F1900;
+    text-decoration: none;
+    }
+    
+    nav ul li:hover{
+    background: #8881b3;
+    }
